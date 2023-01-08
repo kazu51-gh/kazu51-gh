@@ -1,5 +1,5 @@
 ## 自己紹介
-kazuです. 現在大学3回生です.
+I'm kazu. I'm currently a junior in college.
 
 ## ステータス
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kazu51-gh)
