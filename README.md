@@ -1,7 +1,19 @@
 ## self-introduction
 I'm kazu. I'm currently a senior in college.
 
-## status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazu51-gh&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+## my using languages
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,java)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazu51-gh&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+## my using skills, environments and more...
+[![My Skills](https://skillicons.dev/icons?i=git,github,nextjs,react,vite,nodejs,vscode,discord,instagram,twitter&perline=5)](https://skillicons.dev)
+ (Twitter turned to X ...)
+
+## status
+[![trophy](https://github-profile-trophy.vercel.app/?username=kazu51-gh&column=-1&margin-w=5&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+<a>
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=kazu51-gh&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a>
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazu51-gh&layout=compact&theme=tokyonight" />
+</a>
