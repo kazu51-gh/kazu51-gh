@@ -11,7 +11,7 @@ I'm kazu. I'm currently a senior in college.
 ## status
 [![trophy](https://github-profile-trophy.vercel.app/?username=kazu51-gh&column=-1&margin-w=5&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div align="left">
+<p align="left">
   <img height="200"src="https://github-readme-stats.vercel.app/api?username=kazu51-gh&count_private=true&show_icons=true&theme=tokyonight" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazu51-gh&layout=compact&theme=tokyonight" />
-</div>
+</p>
