@@ -1,11 +1,11 @@
 ## self-introduction
-I'm kazu. I'm currently a senior in college.
+I'm kazu. I'm currently working as a system engineer.
 
 ## my using languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,js,ts,html,css,py,java)](https://skillicons.dev)
 
 ## my using skills, environments and more...
-[![My Skills](https://skillicons.dev/icons?i=git,github,nextjs,react,vite,nodejs,vscode,discord,instagram,twitter&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,nextjs,react,nodejs,vscode,discord,instagram,twitter&perline=5)](https://skillicons.dev)
  (Twitter turned to X ...)
 
 ## status
